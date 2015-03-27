@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85CCBC8D-906A-4348-890D-CEC614C5064E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NP 01 Postcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04B88D0D8D49013F438C8EBADB3790614190434F</key>
+		<string>https://github.com/busyleaf/Postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NP 01 Postcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04B88D0D8D49013F438C8EBADB3790614190434F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/busyleaf/Postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04B88D0D8D49013F438C8EBADB3790614190434F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04B88D0D8D49013F438C8EBADB3790614190434F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NP%2001%20Postcard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
