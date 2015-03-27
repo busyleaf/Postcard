@@ -13,6 +13,8 @@
 		57FC1A951AC34A88007B8CCB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57FC1A941AC34A88007B8CCB /* Images.xcassets */; };
 		57FC1A981AC34A88007B8CCB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 57FC1A961AC34A88007B8CCB /* LaunchScreen.xib */; };
 		57FC1AA41AC34A88007B8CCB /* NP_01_PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FC1AA31AC34A88007B8CCB /* NP_01_PostcardTests.swift */; };
+		57FC1AAE1AC35A99007B8CCB /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FC1AAD1AC35A99007B8CCB /* Bo.jpg */; };
+		57FC1AB01AC35F00007B8CCB /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FC1AAF1AC35F00007B8CCB /* JRT.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		57FC1A9D1AC34A88007B8CCB /* NP 01 PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NP 01 PostcardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FC1AA21AC34A88007B8CCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		57FC1AA31AC34A88007B8CCB /* NP_01_PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NP_01_PostcardTests.swift; sourceTree = "<group>"; };
+		57FC1AAD1AC35A99007B8CCB /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		57FC1AAF1AC35F00007B8CCB /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		57FC1A8B1AC34A88007B8CCB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				57FC1AAF1AC35F00007B8CCB /* JRT.jpg */,
+				57FC1AAD1AC35A99007B8CCB /* Bo.jpg */,
 				57FC1A8C1AC34A88007B8CCB /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				57FC1A931AC34A88007B8CCB /* Main.storyboard in Resources */,
 				57FC1A981AC34A88007B8CCB /* LaunchScreen.xib in Resources */,
+				57FC1AB01AC35F00007B8CCB /* JRT.jpg in Resources */,
+				57FC1AAE1AC35A99007B8CCB /* Bo.jpg in Resources */,
 				57FC1A951AC34A88007B8CCB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
